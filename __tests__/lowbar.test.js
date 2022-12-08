@@ -14,4 +14,5 @@ describe('identity', () => {
     const obj = {};
     expect(identity(obj)).toBe(obj);
   });
+  test
 });
